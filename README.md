@@ -17,8 +17,6 @@ This Flutter application demonstrates the use of gradient backgrounds, custom wi
 
 Watch the demo video [here](assets/rolldice.mp4).
 
-<iframe width="560" height="315" src="assets/rolldice.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
